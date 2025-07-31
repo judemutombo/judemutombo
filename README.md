@@ -1,8 +1,6 @@
 ## Hi there 👋 i'm Jude Mutombo
 
-Fresh graduate computer Engineer </br>
-Like to develop Games and 3d stuffs </br>
-but i am more focus on Solution developer, which means using computer science to solve today world's problem </br>
+🎓 Fresh Graduate Computer Engineer with a strong passion for game development and 3D technologies. While I enjoy creating immersive experiences, my core focus is on being a Solution Developer — leveraging the power of computer science to tackle real-world problems. Whether it's building intelligent systems, automating complex processes, or crafting user-centric software, I strive to deliver solutions that make a tangible impact.
 
 
 ## 🌐 Socials:
